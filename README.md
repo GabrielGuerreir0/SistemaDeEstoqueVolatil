@@ -51,6 +51,7 @@ Representa os produtos armazenados nos setores do estoque.
 - **Criar Produto**: Adiciona um novo produto a um setor.
 - **Excluir Produto**: Remove um produto existente de um setor.
 - **Listar Produtos**: Exibe todos os produtos presentes em um setor.
+- **Atualizar quantidade de produtos**: Atualiza a quantidade de produtos presentes em um setor.
 
 ## Características do Sistema
 
